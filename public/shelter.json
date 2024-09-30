@@ -1,0 +1,180 @@
+[
+  {
+    "title": "Shelter of Victoria Bulbyna",
+    "address": "Tulchyn",
+    "dogs": 17,
+    "cats": 4,
+    "foodNeedsPerMonth": "140 kg",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Eastern Stars",
+    "address": "Kyiv",
+    "dogs": 25,
+    "cats": 10,
+    "foodNeedsPerMonth": "200 kg",
+    "medicineNeeds": "20 vials",
+    "otherNeeds": "2 blankets",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Hope",
+    "address": "Lviv",
+    "dogs": 30,
+    "cats": 15,
+    "foodNeedsPerMonth": "250 kg",
+    "medicineNeeds": "10 vials",
+    "otherNeeds": "5 toys",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Kindness",
+    "address": "Odesa",
+    "dogs": 12,
+    "cats": 8,
+    "foodNeedsPerMonth": "100 kg",
+    "medicineNeeds": "5 vials",
+    "otherNeeds": "3 beds",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Love",
+    "address": "Kharkiv",
+    "dogs": 20,
+    "cats": 7,
+    "foodNeedsPerMonth": "180 kg",
+    "medicineNeeds": "15 vials",
+    "otherNeeds": "4 leashes",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Peace",
+    "address": "Vinnytsia",
+    "dogs": 18,
+    "cats": 6,
+    "foodNeedsPerMonth": "150 kg",
+    "medicineNeeds": "8 vials",
+    "otherNeeds": "3 scratching posts",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Unity",
+    "address": "Ternopil",
+    "dogs": 14,
+    "cats": 9,
+    "foodNeedsPerMonth": "130 kg",
+    "medicineNeeds": "5 vials",
+    "otherNeeds": "2 collars",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Gratitude",
+    "address": "Poltava",
+    "dogs": 22,
+    "cats": 11,
+    "foodNeedsPerMonth": "160 kg",
+    "medicineNeeds": "12 vials",
+    "otherNeeds": "4 bowls",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Joy",
+    "address": "Cherkasy",
+    "dogs": 11,
+    "cats": 4,
+    "foodNeedsPerMonth": "90 kg",
+    "medicineNeeds": "3 vials",
+    "otherNeeds": "1 hammock",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Friendship",
+    "address": "Chernivtsi",
+    "dogs": 9,
+    "cats": 3,
+    "foodNeedsPerMonth": "70 kg",
+    "medicineNeeds": "2 vials",
+    "otherNeeds": "1 blanket",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Dreams",
+    "address": "Mykolaiv",
+    "dogs": 16,
+    "cats": 5,
+    "foodNeedsPerMonth": "120 kg",
+    "medicineNeeds": "6 vials",
+    "otherNeeds": "3 toys",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  },
+  {
+    "title": "Shelter of Strength",
+    "address": "Zhytomyr",
+    "dogs": 8,
+    "cats": 2,
+    "foodNeedsPerMonth": "60 kg",
+    "medicineNeeds": "1 vial",
+    "otherNeeds": "1 leash",
+    "imageHeader": "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+    "images": [
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb6ed8adbc8cc3d52b1_279572871_512164177121200_7221341910663066176_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb33ed922479b164528_279475906_521842006266159_9124648205185572209_n.jpg",
+      "https://cdn.prod.website-files.com/6264607e95d7be676470ea8d/628e3bb43702d23140595058_279504944_305484281747596_2893007910299646053_n.jpg"
+    ]
+  }
+]
